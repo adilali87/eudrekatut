@@ -2,3 +2,5 @@ this is a file from Edureka
 
 adding a new line
 
+adding a new line in rebase branch
+
