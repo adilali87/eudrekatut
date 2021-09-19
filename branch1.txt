@@ -1,4 +1,8 @@
 this file is created in branch edurekabranch
+<<<<<<< HEAD
 now this is added in master after commit frm test which had its content
 from master file, coz after editing in test i did not add and commit then n there
 
+=======
+entered from master to create conflict
+>>>>>>> testrenamed
